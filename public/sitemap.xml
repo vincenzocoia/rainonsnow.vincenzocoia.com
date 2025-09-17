@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rainonsnow.vincenzocoia.com/</loc>
+    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://rainonsnow.vincenzocoia.com/privacy/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://rainonsnow.vincenzocoia.com/about/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://rainonsnow.vincenzocoia.com/post/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://rainonsnow.vincenzocoia.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://rainonsnow.vincenzocoia.com/publications/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://rainonsnow.vincenzocoia.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>

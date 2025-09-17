@@ -228,11 +228,15 @@
       "z-30"
     ],
     "ids": [
+      "acknowledgments",
+      "dr-vincenzo-coia",
       "hide-button",
       "moon",
       "nav-menu",
       "nav-toggle",
       "page-bg",
+      "prof-carlo-de-michele",
+      "research-team",
       "search",
       "search_toggle",
       "section-collection",
@@ -241,6 +245,8 @@
       "show-button",
       "site-header",
       "sun",
+      "the-benefits",
+      "the-idea",
       "top"
     ]
   }

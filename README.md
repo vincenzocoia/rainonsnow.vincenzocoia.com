@@ -1,14 +1,10 @@
-<!-- BEGIN BADGES -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6014bb7d-6295-4d06-9de3-45cbd9592e64/deploy-status)](https://app.netlify.com/sites/vincenzocoia/deploys)
-<!-- END BADGES -->
-
 # ESA OSIP project website
 
 This website uses Hugo Blox to generate a static website, which is hosted on Netlify. It uses two themes, Academic CV and Landing Page, so that it can incorporate a larger collection of blocks.
 
 ### Generating Publications
 
-Generate from bibtex. Change `content/publications.bib`.
+Generate from bibtex file -- update `content/publications.bib`.
 
 I use [academic-file-converter](https://github.com/GetRD/academic-file-converter) to convert each bibtex entry to `content/publication/ENTRY` (as recommended by Hugo Blox):
 
