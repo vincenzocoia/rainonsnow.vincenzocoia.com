@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6fa3c46-7a3c-4641-abb1-7155c04a3e2f/deploy-status)](https://app.netlify.com/projects/rainonsnow/deploys)
+
 # ESA OSIP project website
 
 This website uses Hugo Blox to generate a static website, which is hosted on Netlify. It uses two themes, Academic CV and Landing Page, so that it can incorporate a larger collection of blocks.

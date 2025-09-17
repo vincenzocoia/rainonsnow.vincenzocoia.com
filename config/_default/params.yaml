@@ -17,7 +17,7 @@ marketing:
     # description: 'A data science and statistical research expert specializing in probabilistic modeling, extreme value analysis, and practical solutions for real-world challenges.'
     #twitter: ''
   analytics:
-    # google_analytics: 'G-057C5TFBSQ'
+    google_analytics: 'G-FJNQQVNHJ3'
     baidu_tongji: ''
     plausible: ''
     fathom: ''

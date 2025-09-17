@@ -14,7 +14,7 @@ sections:
       items:
         - title: Deciphering compound rain-on-snow flood pathways as observed from satellites
           text: |
-            A research activity under the European Space Agency's (ESA) Open Space Innovation Platform (OSIP), from September 2025 - August 2027. 
+            A research activity under the European Space Agency's (ESA) Open Space Innovation Platform (OSIP), from September 2025 - August 2027 led by Vincenzo Coia.
           # Upload image to `assets/media/` and reference the filename here
           image: rainonsnow-satellite.jpg
         
