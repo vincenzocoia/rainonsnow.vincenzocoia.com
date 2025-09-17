@@ -1,0 +1,10 @@
+---
+title: "Project Beginnings: A New Website"
+date: "2025-09-17"
+---
+
+I'm excited to launch this new project website as we begin the research project, "Deciphering Compound Rain-on-Snow Flood Pathways as Observed from Satellites." This project, supported by the European Space Agency's Open Space Innovation Platform and the Politecnico di Milano, aims to enhance our understanding of compound climate events by advancing the analysis of satellite data.
+
+The research will focus on developing an extremes-informed model that integrates statistical and machine learning methods to predict flood scenarios and their probabilities. By leveraging satellite data, we aim to explore new combinations of flood hazards and their impacts, ultimately contributing to better disaster preparedness and climate resilience.
+
+Click around to learn more about the project. And, come back to this blog to see more project updates throughout the 2-year duration of the project.

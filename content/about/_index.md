@@ -34,21 +34,20 @@ sections:
         
         - **Provides a clearer picture of flooding under climate change** from the improved understanding of events leading up to flooding.
         
-        
         # Research Team
-        
-        ## Prof. Carlo De Michele
-        
-        Dr. Carlo De Michele is a respected figure in hydrology and water resource engineering at the Politecnico di Milano. His work focuses on multivariate modeling of hydrologic and geophysical extreme events, contributing significantly to the understanding and management of these phenomena. Prof. De Michele has guided numerous students and researchers, fostering a collaborative environment that advances the field. His involvement in international collaborations and training schools highlights his commitment to education and research in climate-related events. 
-        
-        - ORCID [0000-0002-7098-4725](https://orcid.org/0000-0002-7098-4725)
-        
+
         ## Dr. Vincenzo Coia
         
         Dr. Vincenzo Coia is an expert in environmental statistics and hydrological research, focusing on innovative approaches to modeling complex climate-related hazards. His work includes developing models for flood and drought prediction, integrating machine learning with traditional hydrological methods. Dr. Coia has contributed to projects such as the Nicola Valley Floodplain Mapping and Flooding under Climate Change in Western Canada, which have supported government initiatives and improved floodplain mapping. His development of the Probaverse R Packages and hydrotechnical machine learning models reflects his ongoing commitment to advancing scientific computing practices. 
         
         - ORCID [0000-0002-2930-0723](https://orcid.org/0000-0002-2930-0723)
         - Website: [vincenzocoia.com](https://vincenzocoia.com/)
+        
+        ## Prof. Carlo De Michele
+        
+        Dr. Carlo De Michele is a respected figure in hydrology and water resource engineering at the Politecnico di Milano. His work focuses on multivariate modeling of hydrologic and geophysical extreme events, contributing significantly to the understanding and management of these phenomena. Prof. De Michele has guided numerous students and researchers, fostering a collaborative environment that advances the field. His involvement in international collaborations and training schools highlights his commitment to education and research in climate-related events. 
+        
+        - ORCID [0000-0002-7098-4725](https://orcid.org/0000-0002-7098-4725)
         
         # Acknowledgments
         
