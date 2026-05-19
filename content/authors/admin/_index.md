@@ -74,8 +74,7 @@ education:
   date_end: "2011-06-15"
   date_start: "2005-09-01"
   institution: Brock University
-first_name: Vincenzo
-highlight_name: true
+
 interests:
 - Extreme Hazard and Risk Modelling
 - Dependence Modelling

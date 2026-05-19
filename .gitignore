@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 .DS_Store
+
+# Hugo build output (Netlify runs `hugo` on deploy)
+/public/
+/resources/
+hugo_stats.json
+.hugo_build.lock

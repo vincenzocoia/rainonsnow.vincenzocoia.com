@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://rainonsnow.vincenzocoia.com/sitemap.xml

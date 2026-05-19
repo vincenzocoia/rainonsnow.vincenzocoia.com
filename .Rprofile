@@ -18,6 +18,3 @@ options(
   # build .Rmd to .md; to build to .html (via Pandoc), set this option to 'html'
   blogdown.method = 'markdown'
 )
-
-# fix Hugo version
-options(blogdown.hugo.version = "0.138.0")
