@@ -28,7 +28,7 @@ sections:
       # text: "Project updates will be posted here."
       title: Project Blog
     design:
-      view: compact
+      view: date-title-summary
 
 
 

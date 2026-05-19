@@ -14,7 +14,7 @@ baseURL: 'https://rainonsnow.vincenzocoia.com/' # Website URL
 cascade:
   # Blog post options
   - _target:
-      path: /blog/**
+      path: /post/**
       kind: page
     pager: true
     editable: true
@@ -31,7 +31,7 @@ cascade:
         enable: true
   # Blog section options
   - _target:
-      path: /blog/*
+      path: /post/*
       kind: section
     # Set the listing view
     view: date-title-summary
