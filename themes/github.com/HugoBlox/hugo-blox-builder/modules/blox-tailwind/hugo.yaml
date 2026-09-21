@@ -4,7 +4,7 @@ markup:
     renderHooks:
       link:
         # Process backlinks hook
-        enableDefault: true
+        useEmbedded: fallback
     renderer:
       # Render HTML in Markdown
       unsafe: true

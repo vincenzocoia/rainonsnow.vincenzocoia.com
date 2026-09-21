@@ -13,7 +13,7 @@ baseURL: 'https://rainonsnow.vincenzocoia.com/' # Website URL
 
 cascade:
   # Blog post options
-  - _target:
+  - target:
       path: /post/**
       kind: page
     pager: true
@@ -30,7 +30,7 @@ cascade:
       navbar:
         enable: true
   # Blog section options
-  - _target:
+  - target:
       path: /post/*
       kind: section
     # Set the listing view
@@ -53,7 +53,8 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -68,8 +69,11 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 95
   anchor: smart
+  jpeg:
+    quality: 95
+  webp:
+    quality: 95
 timeout: 600000
 taxonomies:
   tag: tags
